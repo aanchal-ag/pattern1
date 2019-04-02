@@ -12,6 +12,8 @@ void main()
 				printf("a");
 			else if(i==3&&j>=2&&j<=6)
 				printf("a");
+			else
+				printf(" ");
 		}
 		printf("\n");
 	}
